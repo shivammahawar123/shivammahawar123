@@ -4,10 +4,22 @@
 
 <p align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -15,125 +27,48 @@
 
 ## 🚀 About Me
 
-Data Analyst skilled in SQL, Python, Excel, and Power BI, specializing in transforming complex datasets into actionable insights that support data-driven business decisions.
+I'm a **Data Analyst** passionate about transforming raw data into meaningful business insights through analytics, visualization, and business intelligence.
 
-With a background in Electrical Engineering from MITS Gwalior, I bring strong analytical thinking, structured problem-solving, and a data-driven approach to solving real-world business challenges.
-
-I enjoy working across the complete analytics lifecycle—from data preparation and analysis to visualization, reporting, and business intelligence.
+With a background in **Electrical Engineering (Madhav Institute of Technology & Science, Gwalior)**, I enjoy solving real-world business problems by building end-to-end analytics solutions using SQL, Python, Excel, and Power BI.
 
 ---
 
-## 🎯 What I Do
+## 🛠️ Tech Stack
 
-* Analyze complex datasets
-* Build interactive dashboards
-* Develop KPI frameworks
-* Create business intelligence solutions
-* Transform data into actionable insights
-* Support data-driven decision-making
+**Languages:** SQL • Python
 
----
+**Analytics:** Excel • Pandas • NumPy • Statistics
 
-## 🛠️ Technical Skills
+**Visualization:** Power BI • Matplotlib
 
-### Data Analytics
+**Business Intelligence:** Dashboard Development • KPI Design • Data Visualization • Business Reporting
 
-* SQL
-* Python
-* Excel
-* Power BI
-* Statistics
-
-### Python Libraries
-
-* Pandas
-* NumPy
-* Matplotlib
-
-### Business Intelligence
-
-* Data Visualization
-* Dashboard Development
-* KPI Design
-* Business Reporting
-
-### Machine Learning
-
-* Regression
-* Classification
-* Clustering
-* Data Preprocessing
+**Machine Learning:** Regression • Classification • Clustering • Data Preprocessing
 
 ---
 
 ## 🌱 Currently Learning
 
 * Advanced SQL
-* Power BI
+* Advanced Power BI
 * Business Analytics
 * Data Storytelling
-* Machine Learning
-* Artificial Intelligence Applications
+* AI Applications
 
 ---
 
-## 🎯 Professional Interests
+## 🎯 Career Goal
 
-* Data Analytics
-* Business Intelligence
-* Machine Learning
-* Analytics Engineering
-* Artificial Intelligence
-* Decision Support Systems
+Build impactful **Data & AI solutions** that help organizations make smarter, faster, and more informed decisions.
 
 ---
 
-## 📈 Career Goal
+## 📫 Connect
 
-To build impactful data and AI solutions that help organizations make smarter, faster, and more informed decisions.
+💼 **LinkedIn:** https://linkedin.com/in/shivammahawar07
 
----
-
-## 📫 Connect With Me
-
-### GitHub
-
-🔗 https://github.com/shivammahawar123
-
-### LinkedIn
-
-🔗 www.linkedin.com/in/shivammahawar07
+📧 **Email:** [shivam.mahawar123@gmail.com](mailto:shivam.mahawar123@gmail.com)
 
 ---
 
-## 📊 Core Competencies
-
-* Data Analysis
-* Data Visualization
-* Business Intelligence
-* Dashboard Development
-* KPI Framework Design
-* SQL Query Optimization
-* Statistical Analysis
-* Problem Solving
-* Business Reporting
-* Machine Learning Fundamentals
-
----
-
-⭐ Passionate about turning data into insights and insights into decisions.
-
-<!--
-**shivammahawar123/shivammahawar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Turning data into insights and insights into decisions.*
